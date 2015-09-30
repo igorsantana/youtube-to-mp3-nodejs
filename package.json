@@ -1,0 +1,19 @@
+{
+  "name": "spotify-playlist-to-mp3",
+  "version": "0.0.1",
+  "description": "A NodeJS APP to download youtube videos from spotify playlist songs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "spotify"
+  ],
+  "author": "Igor Santana",
+  "license": "MIT",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.0.1",
+    "ytdl-core": "^0.6.1"
+  }
+}
