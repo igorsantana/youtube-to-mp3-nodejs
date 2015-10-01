@@ -1,14 +1,15 @@
 {
   "name": "youtube-to-mp3",
-  "version": "0.0.3",
-  "description": "A NodeJS APP to download youtube videos",
+  "version": "0.0.4",
+  "description": "A NodeJS APP to download youtube videos and convert them to mp3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "nodejs",
-    "spotify"
+    "youtube",
+    "mp3"
   ],
   "author": "Igor Santana",
   "license": "MIT",
