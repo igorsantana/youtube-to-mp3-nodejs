@@ -1,7 +1,7 @@
 {
-  "name": "spotify-playlist-to-mp3",
-  "version": "0.0.2",
-  "description": "A NodeJS APP to download youtube videos from spotify playlist songs",
+  "name": "youtube-to-mp3",
+  "version": "0.0.3",
+  "description": "A NodeJS APP to download youtube videos",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
