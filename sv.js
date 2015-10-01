@@ -1,3 +1,3 @@
 'use strict';
-let svv = require('./index');
-svv('rId6PKlDXeU', './')
+let svv = require('./lib/index');
+svv(['rId6PKlDXeU', 'sXzDu071RdQ'], './musics/');
