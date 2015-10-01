@@ -1,6 +1,6 @@
 {
   "name": "spotify-playlist-to-mp3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A NodeJS APP to download youtube videos from spotify playlist songs",
   "main": "index.js",
   "scripts": {
