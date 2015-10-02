@@ -2,6 +2,11 @@
   "name": "youtube-to-mp3",
   "version": "0.0.7",
   "description": "A NodeJS APP to download youtube videos and convert them to mp3",
+  "homepage": "igorsantana.co",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opsigor/ops"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
