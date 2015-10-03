@@ -1,13 +1,13 @@
 {
   "name": "youtube-to-mp3",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A NodeJS APP to download youtube videos and convert them to mp3",
   "homepage": "igorsantana.co",
   "repository": {
     "type": "git",
     "url": "https://github.com/opsigor/ops"
   },
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,7 +19,9 @@
   "author": "Igor Santana",
   "license": "MIT",
   "dependencies": {
+    "cheerio": "^0.19.0",
     "fluent-ffmpeg": "^2.0.1",
+    "request": "^2.64.0",
     "ytdl-core": "^0.6.1"
   }
 }
