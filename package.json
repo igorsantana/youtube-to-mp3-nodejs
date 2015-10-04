@@ -1,6 +1,6 @@
 {
   "name": "youtube-to-mp3",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "A NodeJS APP to download youtube videos and convert them to mp3",
   "homepage": "igorsantana.co",
   "repository": {
